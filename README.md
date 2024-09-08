@@ -1,11 +1,12 @@
 # csci5611-project1
 
 Group members: Zhipeng and Ekin 
+
 Pinball project
-Images:
+
 Videos:
 
-https://media.github.umn.edu/user/20852/files/019228fc-5c9a-446c-8c0b-3ac9bd4d9c2e
+
 
 
 Features attempted:  
